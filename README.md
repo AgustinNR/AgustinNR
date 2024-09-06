@@ -55,3 +55,25 @@ With a background in Aeronautical and Mechanical Engineering, I embarked on my s
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a>
 <!-- add spark, airflow, Databricks -->
 
+# Data+AI Portfolio Projects 
+
+## Machine Learning
+
+* ### [Datathon 2024 – Factored.ai: “Risk Assessment Based on GDELT Dataset”](https://github.com/hucodelab/factored-datathon-2024-LatamFusion/blob/main/README.md)
+  _Datathon 2024 was an International Hackathon organized by [Factored.ai](https://factored.ai/), you can find our project deployed at https://latamfusionapp.azurewebsites.net._
+  
+  **Achievements:**
+   - Developed and deployed an application to assess economic instability risks using the "Global Database of Events, Language, and Tone" (GDELT) dataset, processing daily global news data.
+   - Implemented a chart to display an economic instability index by country over time, along with 30-day predictions updated daily, using time series models and RandomForestRegressor.
+   - Defined thresholds to automatically send alerts to stakeholders when critical instability levels are identified.
+   - Used vectorization techniques (Word2Vec) along with unsupervised learning clustering (KMeans) to separate highly polarized news, improving analysis quality.
+   - This project allowed me to deepen my knowledge in Data Engineering and MLOps, optimizing the ingestion, processing, and deployment of machine learning models.
+
+* ### [BrainHack 2024 – Humai: “ADHD Biomarker Detection Using Classification Models”](https://github.com/AgustinNR/BrainHack-BsAs-Humai-Team1/blob/main/README.md)
+  _Brainhack 2024 was an International Hackathon organized by [Humai Institute](https://humai.lat) and [BrainHack School](https://school-brainhack.github.io), you can find our project published in the BrainHhack School official website, click [here](https://school-brainhack.github.io/project/detecting-adhd-through-fmri-signals-using-ml-classification-models/)._
+  
+  **Achievements:**
+   - Developed a complete pipeline to diagnose Attention Deficit Hyperactivity Disorder (ADHD) using resting-state functional MRI signals (fMRI).
+   - Implemented ML classification models, combining PCA with XGBoost to identify relevant biomarkers.
+   - Performed cross-validation and hyperparameter tuning using GridSearchCV to optimize model performance.
+
