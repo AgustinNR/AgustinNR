@@ -8,7 +8,7 @@ With a background in Aeronautical and Mechanical Engineering, I embarked on my s
 📫 Reach me at **agurodri96@hotmail.com**
 
 ### Connect with me:
-<a href="https://linkedin.com/in/www.linkedin.com/agustinnrodriguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/agustinnrodriguez" height="30" width="30" /></a> <a href="https://kaggle.com/agustinnrodriguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="agustinnrodriguez" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/agustinnrodriguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/agustinnrodriguez" height="30" width="30" /></a> <a href="https://kaggle.com/agustinnrodriguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="agustinnrodriguez" height="30" width="30" /></a>
  
 
 ## Languages and Tools:
