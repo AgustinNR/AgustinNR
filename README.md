@@ -3,7 +3,7 @@
 
 I’m an enthusiastic developer from Argentina, deeply passionate about Artificial Intelligence and Machine Learning. My ambition is to create impactful applications that harness the power of these technologies to drive meaningful results and improve lives.
 
-With a background in Aeronautical and Mechanical Engineering, I embarked on my software development journey with Python in 2021. Since then, I’ve been continuously teaching myself and expanding my knowledge, always seeking new challenges to fuel my passion for technology.
+With a background in Aeronautical and Mechanical Engineering, I embarked on my software development journey with Python in 2020. Since then, I’ve been continuously teaching myself and expanding my knowledge, always seeking new challenges to fuel my passion for technology.
 
 📫 Reach me at **agurodri96@hotmail.com**
 
